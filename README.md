@@ -1,5 +1,5 @@
 # stringCalculation
-This C function uses string to int conersion to return the sum or the difference between two numbers stored as strings.
+This C function uses string to int conversion to return the sum or the difference between two numbers stored as strings.
 
 As input, provide the 2 numbers you wish to operate on as well as the desired operator.
 
